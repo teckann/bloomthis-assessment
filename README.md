@@ -26,7 +26,7 @@ git remote add origin https://github.com/teckann/bloomthis-assessment.git
 git push -u origin feature/assessment-answers
 ```
 
-## Step 4: Create README.md & Push
+## Step 5: Create README.md & Push
 
 ```terminal
 git add README.md
